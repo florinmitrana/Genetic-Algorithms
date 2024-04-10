@@ -14,15 +14,15 @@
 
 •Clone Repository 
 
-''' git clone https://github.com/florinmitrana/Genetic-Algorithms '''
+``` git clone https://github.com/florinmitrana/Genetic-Algorithms ```
 
 • Compile the code 
 
-''' g++ main.cpp -o genetic_algorithm '''
+``` g++ main.cpp -o genetic_algorithm ```
 
 • Run the program 
 
-''' ./genetic_algorithm fisieralgin.in fisieralgout.out '''
+``` ./genetic_algorithm fisieralgin.in fisieralgout.out ```
 
 # Usage: 
 
